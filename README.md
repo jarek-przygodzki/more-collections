@@ -3,7 +3,7 @@ more-collections
 Project aims to improve sorting in Java 8 with _Lambda Expressions_
 
 
-Sorting custom type collections
+Sorting collections of custom type
 ---------------------------------
 
 ```
