@@ -1,6 +1,6 @@
 more-collections
 ================
-Project aims to improve sorting in Java 8 with _Lambda Expressions_
+Project aims to improve sorting in Java 8 with _Lambda Expressions_ while pretending that static methods in `java.util.Comparator` dont't exist.
 
 
 Sorting collections of custom type
